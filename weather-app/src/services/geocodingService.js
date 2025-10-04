@@ -1,5 +1,5 @@
-const OPENCAGE_API = '2b4679febcb84b64a6962d51d8c0dfe3';
-const GEOAPIFY_API = '29896cd5f9244baa9d532e72be27b7a3';
+const OPENCAGE_API = '';
+const GEOAPIFY_API = '';
 
 // 🔁 Try OpenCage first
 const tryOpenCage = async (lat, lon) => {
